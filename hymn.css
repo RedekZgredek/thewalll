@@ -1,0 +1,28 @@
+body{
+    background:url(https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_Poland_%28normative%29.svg/250px-Flag_of_Poland_%28normative%29.svg.png)
+      ;
+      background-size: cover;
+      text-align: center;
+      font-family:Oswald;
+      font-weight: 700;
+      font-style: italic;
+      font-size: larger;
+
+}
+h1{
+    word-spacing: 15px;
+    color: brown;
+}
+p{
+    word-spacing: 13px;
+    max-width: 30ch;
+    border: 5px double;
+    margin-left: 60px;
+    display: flex;
+    border-color: blueviolet;
+cursor: url(cursor.cur), auto;   
+
+}
+img{
+    display: center;
+}
